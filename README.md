@@ -4,6 +4,10 @@ Official Notion Skills created by Notion for Claude. These skills teach Claude h
 
 > [Korean README](README.ko.md) | [Original Notion Page](NOTION.md)
 
+## Source
+
+This repository redistributes content from [Notion's official Skills for Claude page](https://www.notion.so/notiondevs/Notion-Skills-for-Claude-28da4445d27180c7af1df7d8615723d0) for **educational purposes**. It serves as a reference for understanding Claude Skills structure and implementation patterns.
+
 ## Overview
 
 Notion Skills are step-by-step guides that help Claude complete entire workflows in Notion - structuring pages, updating databases, following patterns, and working through your actual processes.

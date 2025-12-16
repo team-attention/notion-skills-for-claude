@@ -4,6 +4,10 @@ Notion에서 직접 제작한 공식 Claude Skills입니다. Claude가 Notion에
 
 > [English README](README.md) | [Original Notion Page](NOTION.md)
 
+## 출처
+
+이 저장소는 [Notion 공식 Skills for Claude 페이지](https://www.notion.so/notiondevs/Notion-Skills-for-Claude-28da4445d27180c7af1df7d8615723d0)의 내용을 **교육 목적**으로 재배포합니다. Claude Skills의 구조와 구현 패턴을 이해하기 위한 참고 자료로 활용할 수 있습니다.
+
 ## 개요
 
 Notion Skills는 Claude가 Notion에서 전체 워크플로우를 완수할 수 있도록 돕는 단계별 가이드입니다. 페이지 구조화, 데이터베이스 업데이트, 패턴 따르기, 실제 프로세스 수행 등을 지원합니다.
